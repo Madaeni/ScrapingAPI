@@ -1,0 +1,6 @@
+Имя репозитория: Analytics 
+ Ссылка на репозиторий: https://github.com/Madaeni/Analytics 
+Имя репозитория: Python 
+ Ссылка на репозиторий: https://github.com/Madaeni/Python 
+Имя репозитория: Scraping 
+ Ссылка на репозиторий: https://github.com/Madaeni/Scraping 
