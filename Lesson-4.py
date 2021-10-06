@@ -1,7 +1,6 @@
 import requests
 from lxml import html
 from pymongo import MongoClient
-from pprint import pprint
 
 # Подключаем базу
 client = MongoClient('127.0.0.1', 27017)
@@ -36,6 +35,6 @@ for item in items:
     news['data'] = data
 
     news_list.append(news)
-    # news_yandex.insert_one(news)
+    news_yandex.insert_one(news)
 
-pprint(news_list)
+
